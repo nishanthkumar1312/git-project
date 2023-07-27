@@ -1,7 +1,2 @@
 my name is nishanth
-<<<<<<< HEAD
-maild id xxxxxx
-=======
-working in tcs
->>>>>>> 76939d8cbcaec802549d5709e8f2d6ae532e9da5
-surname is kukutapu
+working in lti
